@@ -22,5 +22,5 @@
          "psr-4": {
             "easyfields\\Easyfields\\": "easyfields/Easyfields/src"
         }
-    },
+    }
 }
