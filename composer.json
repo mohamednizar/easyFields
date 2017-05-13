@@ -1,9 +1,8 @@
 {
-    "name": "nizar/easy-fields",
+    "name": "easy-fields/ef",
     "description": "A package to make easy develpers to create migrations and add attributes on business requrements",
-    "type": "package",
     "require": {
-        "#": "no"
+    	"illuminate/support": "~5.1"
     },
     "license": "MIT",
     "authors": [
@@ -11,5 +10,10 @@
             "name": "nizar",
             "email": "nizarucsc@gmail.com"
         }
-    ]
+    ],
+     "autoload": {
+         "psr-4": {
+            "easyfields\\Easyfields\\": "easyfields/Easyfields/src"
+        }
+    }
 }
