@@ -23,9 +23,4 @@
             "easyfields\\Easyfields\\": "easyfields/Easyfields/src"
         }
     },
-     "extra": {
-        "branch-alias": {
-            "dev-master": "develop"
-        }
-    }
 }
