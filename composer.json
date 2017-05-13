@@ -1,0 +1,15 @@
+{
+    "name": "nizar/easy-fields",
+    "description": "A package to make easy develpers to create migrations and add attributes on business requrements",
+    "type": "package",
+    "require": {
+        "#": "no"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nizar",
+            "email": "nizarucsc@gmail.com"
+        }
+    ]
+}
