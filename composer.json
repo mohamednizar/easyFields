@@ -1,5 +1,5 @@
 {
-    "name": "easyfields/easyfields",
+    "name": "nizar/easyfields",
     "version": "0.1",
     "description": "A package to make easy develpers to create migrations and add attributes on business requrements",
     "require": {
@@ -20,7 +20,7 @@
     ],
      "autoload": {
          "psr-4": {
-            "easyfields\\Easyfields\\": "easyfields/Easyfields/src"
+            "Easyfields\\": "nizar/easyfields/src"
         }
     }
 }
